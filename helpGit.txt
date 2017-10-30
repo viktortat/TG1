@@ -6,12 +6,6 @@ git push -u origin master
 git fetch origin master
 git pull
 git remote -v                                               
-min@HOME MINGW64 /e/2222/TG1 (master)                       
 git remote rm origin                                        
-                                                            
-min@HOME MINGW64 /e/2222/TG1 (master)                       
 git remote -v                                               
-                                                            
-min@HOME MINGW64 /e/2222/TG1 (master)                       
-git remote add origin git@github.com:viktortat/TG1.git      
-                                                            
+git remote add origin git@github.com:viktortat/TG1.git                                                                 
