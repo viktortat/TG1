@@ -1,3 +1,2 @@
-# TG1
-bjjhgjh
-gvhjvbj
+# Git работа
+Примеры работы с Git
